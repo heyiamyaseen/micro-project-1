@@ -17,6 +17,7 @@
   margin-right: auto;
   margin-left: auto;
   background: var(--primary-color);
+overflow-x: hidden;
 }
 .row {
   display: flex;
